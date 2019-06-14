@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Workshop Firebase</string>
+    <string name="login">LOGIN</string>
+    <string name="create_new_account">CREATE NEW ACCOUNT</string>
+</resources>
